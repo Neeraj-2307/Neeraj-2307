@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Neeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neeraj-2307)](https://github.com/Neeraj-2307/github-readme-stats)
+[![Neeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neeraj-2307&show_icons=true&theme=tokyonight)](https://github.com/Neeraj-2307/github-readme-stats)
 
 
 <!--
