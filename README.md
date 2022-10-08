@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+## Stats
+
 [![Neeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neeraj-2307&show_icons=true&theme=tokyonight)](https://github.com/Neeraj-2307/github-readme-stats)
 
+## Joke
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
 **Neeraj-2307/Neeraj-2307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
