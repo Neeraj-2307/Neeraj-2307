@@ -2,20 +2,8 @@
 <h1 align="center">Hi 👋, I'm Neeraj Joshi</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-## Stats
-[![Neeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neeraj-2307&show_icons=true&theme=tokyonight)](https://github.com/Neeraj-2307/github-readme-stats)
-<br/>
-<a href="https://github.com/Neeraj-2307/github-readme-stats"><img alt="Neeraj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj-2307&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br/>
-![](https://komarev.com/ghpvc/?username=Neeraj-2307)
-
-
 ## Programming Humor
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
-## Contribution Graph
-![snake gif](https://github.com/Neeraj-2307/Neeraj-2307/blob/output/github-contribution-grid-snake.gif)
 
 ## Connect with me:
 <p align="left">
