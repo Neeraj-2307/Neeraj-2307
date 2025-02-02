@@ -21,9 +21,6 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/neeraj-joshi-15919019a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/neeraj_2307"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/neerajjoshi23_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
 </p>
 
 [![@neeraj_2307's Holopin board](https://holopin.io/api/user/board?user=neeraj_2307)](https://holopin.io/@neeraj_2307)
